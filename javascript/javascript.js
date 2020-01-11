@@ -26,4 +26,6 @@ $(document).ready(function(){
 });
 
 // AOS animation
-AOS.init();
+AOS.init({
+    duration: 1000
+});
